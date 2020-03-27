@@ -1,0 +1,23 @@
+{
+    "name": "espino316\/rsphp-dokku-boilerplate",
+    "description": "RSPhp Dokku Boilerplate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Espino",
+            "email": "luis@espino.info"
+        }
+    ],
+    "require": {
+        "espino316\/rsphp": "^v0.0.10"
+    },
+    "require-dev": {
+        "heroku\/heroku-buildpack-php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "application"
+        }
+    }
+}

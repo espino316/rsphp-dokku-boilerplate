@@ -1,0 +1,12 @@
+{
+    "appName": "api.rspos.espino.info",
+    "globals": {
+        "EMAIL_ADMIN": "luis@espino.info",
+        "DEVELOPMENT_ENVIRONMENT": "1",
+        "logSql": true,
+        "allowCORS": true
+    },
+    "configFiles": [],
+    "routes": [],
+    "dbConnections": []
+}
